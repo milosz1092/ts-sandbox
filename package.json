@@ -1,0 +1,14 @@
+{
+  "name": "ts-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milosz Szewczyk",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.27"
+  }
+}
